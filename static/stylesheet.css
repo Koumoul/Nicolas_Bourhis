@@ -4,6 +4,12 @@ h1 {
   color: #333333;
 }
 
+p {
+  margin-left: 20%;
+  margin-right: 20%;
+  font-family: 'Montserrat';
+}
+
 img {
   display: block;
   margin-left: auto;
