@@ -2,3 +2,11 @@ h1 {
   text-align: center;
   font-family: 'Spectral SC', serif;
 }
+
+img {
+  
+  text-align: center;
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
+}
